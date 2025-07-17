@@ -24,11 +24,5 @@ Desenvolvedor em aperfeiçoamento, formado em Quality Assurance e analista de si
 
 ---
 
-### Estatísticas do GitHub (Opcional, mas muito 'tech'!) 📊
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=**SEU_USERNAME**&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USERNAME**&layout=compact&theme=dracula)
-
----
-
 ### Quer um café? ☕
 Estou sempre aberto a novas ideias e conexões! 😉 Me chama aí!
