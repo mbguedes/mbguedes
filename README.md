@@ -25,4 +25,5 @@ Desenvolvedor em aperfeiçoamento, formado em Quality Assurance e analista de si
 ---
 
 ### Quer um café? ☕
-Estou sempre aberto a novas ideias e conexões! 😉 Me chama aí!
+Estou sempre aberto a novas ideias e conexões! 😉 Me chama aí! [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marciobguedes/)
+
