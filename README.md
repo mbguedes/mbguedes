@@ -12,7 +12,7 @@ Desenvolvedor em aperfeiçoamento, formado em Quality Assurance e analista de si
 
 ### Minhas Habilidades 🛠️
 * **Linguagens:** Python | JavaScript | TypeScript | Java
-* **Frameworks:** Angular | Tailwind | Node.js 
+* **Frameworks:** React | Tailwind | Node.js 
 * **Bancos de Dados:** PostgreSQL | MySQL
 * **Ferramentas:** Git | Docker | Azure 
 
