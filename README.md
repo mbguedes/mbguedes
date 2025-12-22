@@ -5,7 +5,7 @@ Desenvolvedor em aperfeiçoamento, formado em Quality Assurance e analista de si
 
 ### O que estou fazendo agora? 🔭
 - Atualmente trabalhando em desenvolvimento WEB com JS, TS, HTML e CSS.
-- Aprendendo mais sobre SOLID e boas práticas de código limpo.
+- Aprendendo mais sobre SOLID e boas práticas de código limpo escrevendo em Java.
 - Colaborando com o @institutojogajunto para formação de mais QAs.
 
 ---
