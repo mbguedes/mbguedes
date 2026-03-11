@@ -1,31 +1,38 @@
-### Olá! 👋 Seja muito bem-vindo! Meu nome é Marcio!
-Desenvolvedor em aperfeiçoamento, formado em Quality Assurance e analista de sistemas pela @FIAP. Apaixonado por tudo que envolve tecnologia.
+### Olá! 👋 Sou o Marcio B. Guedes!
 
----
+Analista de QA & Qualidade de Software | Engenharia de IA & Agentes Autônomos
 
-### O que estou fazendo agora? 🔭
-- Atualmente trabalhando em desenvolvimento WEB com JS, TS, HTML e CSS.
-- Aprendendo mais sobre SOLID e boas práticas de código limpo escrevendo em Java.
-- Colaborando com o @institutojogajunto para formação de mais QAs.
+Combinando minha base em Análise de Sistemas pela FIAP com a experiência em automação, estou direcionando minha carreira para a Engenharia de IA. Atualmente, foco no desenvolvimento de agentes inteligentes e na aplicação de LLMs para otimização de processos técnicos.
 
----
+🚀 O que estou fazendo agora?
+Engenharia de IA (Projeto Pessoal): Construindo agentes de IA autônomos utilizando Llama 3.3 e LangGraph.
 
-### Minhas Habilidades 🛠️
-* **Linguagens:** Python | JavaScript | TypeScript | Java
-* **Frameworks:** React | Tailwind | Node.js 
-* **Bancos de Dados:** PostgreSQL | MySQL
-* **Ferramentas:** Git | Docker | Azure 
+Analista de QA na BRQ (Cliente Smiles | Gol): Garantindo a qualidade da experiência do usuário e integridade de software em plataformas Web, Mobile e Desktop.
 
----
+Facilitador de Ensino no Instituto JogaJunto: Capacitando novos talentos em QA, Lógica de Programação e Cultura Ágil.
 
-### Conecte-se comigo! 💬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbguedesdev/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcio.techwork@gmail.com)
+🧠 Habilidades em IA & Tecnologia
+Inteligência Artificial: Desenvolvimento com LangChain, RAG (Retrieval-Augmented Generation) e LLMs.
 
----
-
-### Quer um café? ☕
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marciobguedes/)<br>
-Estou sempre aberto a novas ideias e conexões! 😉 Me chama aí!
+Linguagens: Proficiência em Python (foco em IA e scripts) e Java.
 
 
+Qualidade & Automação: Automação com Selenium e playwright, integrando testes ao pipeline de CI/CD. 
+
+Cultura Ágil: Atuação em squads multidisciplinares utilizando Scrum e Kanban.
+
+🎓 Formação e Especializações
+
+Análise e Desenvolvimento de Sistemas – FIAP (2025). 
+
+
+AWS Introduction to Machine Learning – Amazon Web Services. 
+
+
+Quality Assurance (Automação, Scrum, BDD) – Instituto JogaJunto. 
+
+💬 Vamos tomar um café?
+
+
+🌌 Curiosidades
+Além de tecnologia, sou entusiasta de ficção científica e aventuras épicas como Star Wars, Harry potter e The Lord of the Rings.
