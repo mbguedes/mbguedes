@@ -1,4 +1,4 @@
-### Olá! 👋 Sou o Marcio B. Guedes!
+### Olá! 👋 É um prazer te receber aqui!
 
 Analista de QA & Qualidade de Software | Engenharia de IA & Agentes Autônomos
 
